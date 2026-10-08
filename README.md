@@ -4,7 +4,7 @@ Repositori ini berisi **Google Colab Notebook** untuk melakukan analisis sentime
 
 ---
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 
 Notebook ini dirancang untuk:
 
@@ -22,7 +22,7 @@ Notebook ini dirancang untuk:
 
 ---
 
-## 🛠️ Teknologi & Library
+## Teknologi & Library
 
 Proyek ini dibangun menggunakan **Python** dengan dukungan beberapa library berikut:
 
@@ -35,7 +35,7 @@ Proyek ini dibangun menggunakan **Python** dengan dukungan beberapa library beri
 
 ---
 
-## 📂 Struktur Notebook
+## Struktur Notebook
 
 Notebook terbagi ke dalam beberapa bagian utama sebagai berikut:
 
@@ -63,7 +63,7 @@ Notebook terbagi ke dalam beberapa bagian utama sebagai berikut:
 
 ---
 
-## 🚀 Cara Penggunaan
+## Cara Penggunaan
 
 1. Unggah file `file-colab.ipynb` ke **Google Colab**.
 2. Jalankan setiap *cell* secara berurutan.
@@ -72,7 +72,7 @@ Notebook terbagi ke dalam beberapa bagian utama sebagai berikut:
 
 ---
 
-## 📊 Hasil Analisis
+## 📊Hasil Analisis
 
 Berdasarkan data awal yang diolah di dalam notebook, sistem berhasil mengidentifikasi distribusi sentimen sebagai berikut:
 
@@ -84,7 +84,7 @@ Hasil ini menunjukkan bahwa **mayoritas pemberitaan media mengenai kondisi jalan
 
 ---
 
-## 📎 Catatan
+## Catatan
 
 Pendekatan **Lexicon-Based** sangat bergantung pada kualitas dan kelengkapan kamus kata yang digunakan. Oleh karena itu, pengembangan dan penyesuaian lexicon lokal menjadi faktor penting dalam meningkatkan akurasi analisis sentimen.
 
